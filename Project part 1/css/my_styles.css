@@ -58,9 +58,34 @@
   #bf1 {
     float: left;
     margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  #c1 {
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  #ln1 {
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  .cImg {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
   }
 
   .bfImg {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+  }
+
+  .lnImg {
     float: right;
     margin-right: 20px;
     margin-top: 20px;
